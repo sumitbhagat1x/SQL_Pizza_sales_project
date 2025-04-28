@@ -4,22 +4,22 @@ Throughout the project, various analyses were conducted to better understand cus
 
 The dataset contains four tables:
 
-orders: Stores order information such as order ID, date, and time.
+  1.orders: Stores order information such as order ID, date, and time.
 
-order_details: Contains details like the quantity of pizzas ordered and links to specific pizzas.
+  2.order_details: Contains details like the quantity of pizzas ordered and links to specific pizzas.
 
-pizzas: Includes information about each pizza, such as size and price.
+  3.pizzas: Includes information about each pizza, such as size and price.
 
-pizza_types: Provides details about pizza types, categories, and ingredients.
+  4.pizza_types: Provides details about pizza types, categories, and ingredients.
 
 🔎 Key Findings:
-Total Orders Placed
+  1.Total Orders Placed
 
-Total Revenue Generated from Pizza Sales
+  2.Total Revenue Generated from Pizza Sales
 
-Identification of the Highest Priced Pizza
+  3.Identification of the Highest Priced Pizza
 
-Top 5 Most Ordered Pizzas
+  4.Top 5 Most Ordered Pizzas
 
-And many more insights related to customer behavior and sales trends.
+    And many more insights related to customer behavior and sales trends.
 
