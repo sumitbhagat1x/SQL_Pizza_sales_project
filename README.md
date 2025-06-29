@@ -20,6 +20,5 @@ The dataset contains four tables:
   3.Identification of the Highest Priced Pizza
 
   4.Top 5 Most Ordered Pizzas
-
-    And many more insights related to customer behavior and sales trends.
+ And many more insights related to customer behavior and sales trends.
 
