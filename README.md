@@ -1,4 +1,4 @@
-🍕 SQL Pizza Sales Project
+🍕<bold> SQL Pizza Sales Project</bold>
 This project focuses on retrieving meaningful insights from a pizza sales database using SQL.
 Throughout the project, various analyses were conducted to better understand customer preferences and sales performance.
 
@@ -22,3 +22,4 @@ The dataset contains four tables:
   4.Top 5 Most Ordered Pizzas
  And many more insights related to customer behavior and sales trends.
 
+<bold>Project Link:-</bold?>https://github.com/sumitbhagat1x/SQL_Pizza_sales_project/tree/main
