@@ -1,27 +1,24 @@
-🍕 ***SQL Pizza Sales Project***
+## 🍕 SQL Pizza Sales Project
 
-This project focuses on retrieving meaningful insights from a pizza sales database using SQL.
-Throughout the project, various analyses were conducted to better understand customer preferences and sales performance.
+This project is centered around analyzing a pizza sales database using **SQL** to uncover valuable business insights. By performing various queries and aggregations, the project aims to better understand **customer preferences** and **sales performance**.
 
-The dataset contains four tables:
+### 📂 Dataset Overview
 
-  1.orders: Stores order information such as order ID, date, and time.
+The dataset consists of four related tables:
 
-  2.order_details: Contains details like the quantity of pizzas ordered and links to specific pizzas.
+1. **orders** – Contains order information such as order ID, date, and time.  
+2. **order_details** – Holds details like the quantity of pizzas ordered and links each order to specific pizzas.  
+3. **pizzas** – Provides information on each pizza, including size and price.  
+4. **pizza_types** – Lists the types of pizzas, including their category and ingredients.
 
-  3.pizzas: Includes information about each pizza, such as size and price.
+### 🔍 Key Insights
 
-  4.pizza_types: Provides details about pizza types, categories, and ingredients.
+- ✅ Total number of orders placed  
+- 💰 Total revenue generated from pizza sales  
+- 🍕 Identification of the highest priced pizza  
+- 🏆 Top 5 most ordered pizzas  
+- 📈 Additional trends in customer behavior and sales patterns
 
-🔎 Key Findings:
-  1.Total Orders Placed
+---
 
-  2.Total Revenue Generated from Pizza Sales
-
-  3.Identification of the Highest Priced Pizza
-
-  4.Top 5 Most Ordered Pizzas
-  
- And many more insights related to customer behavior and sales trends.
-
-**Project Link:-** https://github.com/sumitbhagat1x/SQL_Pizza_sales_project/tree/main
+📎 **Project Link:** [SQL Pizza Sales Project on GitHub](https://github.com/sumitbhagat1x/SQL_Pizza_sales_project/tree/main)
