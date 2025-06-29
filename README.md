@@ -1,4 +1,4 @@
-🍕* SQL Pizza Sales Project*
+🍕 *** SQL Pizza Sales Project***
 This project focuses on retrieving meaningful insights from a pizza sales database using SQL.
 Throughout the project, various analyses were conducted to better understand customer preferences and sales performance.
 
